@@ -7,7 +7,7 @@ Queue Data Structure Implementation in C
 
 ## Features:
 
-**CreateQueue:** Creates a queue object in the heap to hold queue information.
+**CreateQueue:** Create a queue object in the heap to hold queue information.
 
 **EnqueueElement:** Add elements to the end of the queue.
 
