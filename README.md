@@ -1,4 +1,5 @@
-# Basic-Dynamic-Queue-Based-on-Array
+ Basic-Dynamic-Queue-Based-on-Array
+=====================================
 
 Queue Data Structure Implementation in C
 
