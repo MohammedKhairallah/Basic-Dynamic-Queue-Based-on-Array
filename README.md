@@ -7,14 +7,14 @@ Queue Data Structure Implementation in C
 
 ## Features:
 
-### **Enqueue:** Add elements to the end of the queue.
+**Enqueue:** Add elements to the end of the queue.
 
-### **Dequeue:** Remove elements from the front of the queue.
+**Dequeue:** Remove elements from the front of the queue.
 
-### **GetQueueCount:** Retrieve the current count of elements in the queue.
+**GetQueueCount:** Retrieve the current count of elements in the queue.
 
-### **QueueFront & QueueRear:** Retrieve the front and rear elements without removal.
+**QueueFront & QueueRear:** Retrieve the front and rear elements without removal.
 
-### **DestroyQueue:** Release memory and destroy the queue.
+**DestroyQueue:** Release memory and destroy the queue.
 
-### **Comprehensive Documentation:** Each function is thoroughly documented for ease of understanding and usage.
+**Comprehensive Documentation:** Each function is thoroughly documented for ease of understanding and usage.
