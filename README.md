@@ -7,16 +7,16 @@ Queue Data Structure Implementation in C
 
 ## Features:
 
-**CreateQueue:** Create a queue object in the heap to hold queue information.
+- **CreateQueue:** Create a queue object in the heap to hold queue information.
 
-**EnqueueElement:** Add elements to the end of the queue.
+- **EnqueueElement:** Add elements to the end of the queue.
 
-**DequeueElement:** Remove elements from the front of the queue.
+- **DequeueElement:** Remove elements from the front of the queue.
 
-**GetQueueCount:** Retrieve the current count of elements in the queue.
+- **GetQueueCount:** Retrieve the current count of elements in the queue.
 
-**QueueFront & QueueRear:** Retrieve the front and rear elements without removal.
+- **QueueFront & QueueRear:** Retrieve the front and rear elements without removal.
 
-**DestroyQueue:** Release memory and destroy the queue.
+- **DestroyQueue:** Release memory and destroy the queue.
 
-**Comprehensive Documentation:** Each function is thoroughly documented for ease of understanding and usage.
+- **Comprehensive Documentation:** Each function is thoroughly documented for ease of understanding and usage.
