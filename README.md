@@ -1,9 +1,6 @@
 # Basic-Dynamic-Queue-Based-on-Array
 
-Queue Data Structure Implementation in C
-------------------------------------------
-
-### This repository contains a C implementation of a Queue data structure, offering basic queue operations like enqueue, dequeue, retrieving front and rear elements, as well as functions to check the queue's count and destroy the queue.
+This project showcases the implementation of a dynamic queue using an array in the C programming language. A queue is a linear data structure that follows the FIFO (First In, First Out) principle. In a dynamic queue, the size of the queue is not fixed and can dynamically grow or shrink as elements are enqueued or dequeued.
 
 ## Features:
 
